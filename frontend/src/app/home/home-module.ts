@@ -16,7 +16,6 @@ import { HomeModuleRouting } from './home-routing.module';
   ],
   imports: [
     HomeModuleRouting
-   
   ],
   providers: [],
 })
